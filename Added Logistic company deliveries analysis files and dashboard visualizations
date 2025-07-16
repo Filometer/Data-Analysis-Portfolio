@@ -11,8 +11,18 @@ To analyze shipment delivery performance, employee involvement, client demand, a
 
 ---
 
-## 📈 Dashboard Overview
+## 📈 Dashboard Preview
 
+![logistics screenshot.png](logistics%20screenshot.png)
+
+> 📌 *This visual shows delivery success rate, employee shipment handling, and top clients by shipping domain.*
+
+## 📁 Dataset
+
+You can download the sample dataset used in this project here:  
+📥 [Logistics Data Analysis.pbix](./Logistics%20Data%20Analysis.pbix)
+
+---
 ### ✅ Key KPIs
 - **Total Shipments:** 200
 - **Total Shipment Amount:** ₦9,000,000
